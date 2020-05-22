@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Link
+Name=Gestione Task
+Icon=utilities-system-monitor
+URL=/usr/share/raspi-ui-overrides/applications/lxtask.desktop
